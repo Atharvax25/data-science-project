@@ -1,0 +1,13 @@
+text,label
+"Win money now claim your free prize",spam
+"Meeting today at office",not_spam
+"Limited offer buy now",spam
+"Please review the project report",not_spam
+"Congratulations you won lottery",spam
+"Lunch plans with team tomorrow",not_spam
+"Free coupons available click here",spam
+"Your invoice is attached",not_spam
+"Urgent account verification required",spam
+"Can we schedule a call",not_spam
+"Earn cash from home quickly",spam
+"Data science class starts Monday",not_spam

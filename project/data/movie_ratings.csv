@@ -1,0 +1,16 @@
+user_id,movie_title,rating,genre
+1,Inception,5,Sci-Fi
+1,Toy Story,4,Animation
+1,Titanic,3,Romance
+2,Inception,4,Sci-Fi
+2,The Matrix,5,Sci-Fi
+2,Toy Story,3,Animation
+3,Titanic,5,Romance
+3,The Notebook,4,Romance
+3,Inception,3,Sci-Fi
+4,The Matrix,4,Sci-Fi
+4,Toy Story,5,Animation
+4,The Notebook,2,Romance
+5,Inception,5,Sci-Fi
+5,The Matrix,5,Sci-Fi
+5,Titanic,4,Romance
